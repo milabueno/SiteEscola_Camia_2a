@@ -51,7 +51,7 @@ body {
 }
 .cabecalho {
     background-color: #f1ffff00;
-    color: white;
+    color: rgb(0, 0, 0);
     display: flex;
     justify-content: space-around;
     align-items: center;
@@ -74,7 +74,7 @@ body {
 
 .escola{
     background-image: linear-gradient(#ffffff00,#16CFF8);
-    color:white;
+    color:rgb(0, 0, 0);
     display: flex;
     justify-content: center;
     align-items: center;
